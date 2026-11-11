@@ -53,8 +53,6 @@
 
 ### 时间轴
 
-下面沿用本 Skill 已确认的柔和灰蓝时间轴版式。
-
 ![时间轴思维导图示例：人工智能发展历程](references/images/timeline-grayblue-approved.png)
 
 ## 文件结构
