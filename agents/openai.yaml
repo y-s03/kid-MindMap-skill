@@ -1,4 +1,4 @@
 interface:
   display_name: "kid-MindMap-skill"
-  short_description: "先选视觉样式与导图类型，支持树状、放射、组织、鱼骨和时间轴"
+  short_description: "九种导图模板，支持按文章内容自拟结构、图标与配色"
   default_prompt: "使用 $kid-MindMap-skill，先让我选择视觉样式和导图类型，再根据我的主题制作思维导图。"
