@@ -34,43 +34,15 @@
 
 ## 导图类型示例
 
-以下九张图片分别演示一种导图结构。示例内容仅用于说明布局；制作新图时，会根据主题和所选视觉样式重新绘制。
+以下九张图片分别演示一种导图结构。示例内容仅用于说明布局；制作新图时，会根据主题和所选视觉样式重新绘制。点击图片可查看原图。
 
-### 右向树状
-
-![右向树状思维导图示例：健康生活](references/images/rightward-tree-example.png)
-
-### 左右平衡
-
-![左右平衡思维导图示例：旅行计划](references/images/balanced-example.png)
-
-### 中心放射
-
-![中心放射思维导图示例：个人成长](references/images/radial-example.png)
-
-### 组织结构图
-
-![组织结构图示例：项目团队](references/images/org-chart-example.png)
-
-### 鱼骨图
-
-![鱼骨图示例：项目延期](references/images/fishbone-example.png)
-
-### 时间轴
-
-![时间轴思维导图示例：人工智能发展历程](references/images/timeline-grayblue-approved.png)
-
-### 许可流程图
-
-![许可流程图示例：活动场地使用申请](references/images/permit-flow-example.png)
-
-### 环形图
-
-![环形图示例：社区阅读活动](references/images/ring-example.png)
-
-### 设计流程图
-
-![设计流程图示例：校园导览系统设计](references/images/design-flow-example.png)
+| 示例 | 示例 |
+| :---: | :---: |
+| **右向树状**<br><a href="references/images/rightward-tree-example.png"><img src="references/images/rightward-tree-example.png" alt="右向树状思维导图示例：健康生活" width="420"></a> | **左右平衡**<br><a href="references/images/balanced-example.png"><img src="references/images/balanced-example.png" alt="左右平衡思维导图示例：旅行计划" width="420"></a> |
+| **中心放射**<br><a href="references/images/radial-example.png"><img src="references/images/radial-example.png" alt="中心放射思维导图示例：个人成长" width="420"></a> | **组织结构图**<br><a href="references/images/org-chart-example.png"><img src="references/images/org-chart-example.png" alt="组织结构图示例：项目团队" width="420"></a> |
+| **鱼骨图**<br><a href="references/images/fishbone-example.png"><img src="references/images/fishbone-example.png" alt="鱼骨图示例：项目延期" width="420"></a> | **时间轴**<br><a href="references/images/timeline-grayblue-approved.png"><img src="references/images/timeline-grayblue-approved.png" alt="时间轴思维导图示例：人工智能发展历程" width="420"></a> |
+| **许可流程图**<br><a href="references/images/permit-flow-example.png"><img src="references/images/permit-flow-example.png" alt="许可流程图示例：活动场地使用申请" width="420"></a> | **环形图**<br><a href="references/images/ring-example.png"><img src="references/images/ring-example.png" alt="环形图示例：社区阅读活动" width="420"></a> |
+| **设计流程图**<br><a href="references/images/design-flow-example.png"><img src="references/images/design-flow-example.png" alt="设计流程图示例：校园导览系统设计" width="420"></a> |  |
 
 ## 文件结构
 
